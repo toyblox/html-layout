@@ -1,0 +1,46 @@
+html, body {
+	background: #EFEFEF;
+	height: 100%;
+	width: 100%;
+}
+
+.top {
+	height: 150px;
+	width: 100%;
+	background: #444444;
+	float: top;
+	margin: 0;
+}
+
+.lside {
+	height: 100%;
+	width: 10%;
+	background: #d8d8d8;
+	float: left;
+	margin: 0;
+}
+
+.rside {
+	height: 100%;
+	width: 10%;
+	background: #d8d8d8;
+	float: right;
+	margin: 0;
+}
+
+.contain {
+	height: 100%;
+	width: 100%;
+}
+
+
+.bottom {
+	height: 10%;
+	width: 100%;
+	background-color: #222222;
+	margin: 0;
+}
+
+.spacer {
+	height: 90%;
+}

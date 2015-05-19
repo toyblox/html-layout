@@ -1,0 +1,53 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	background-color: #d0021b;
+	margin:0;
+}
+* {
+	box-sizing: border-box;
+}
+
+.left {
+	height: 100%;
+	width: 33%;
+	background-color: #4a90e2;
+	float: left;
+	margin: 0;
+}
+
+.middle {
+	height: 100%;
+	width: 34%;
+	background-color: #50e3c2;
+	float: left;
+	margin: 0;
+
+}
+
+.right {
+	height: 100%;
+	width: 33%;
+	background-color: #b8e986;
+	float: left;
+	margin: 0;
+}
+
+.filler {
+	height: 80%;
+}
+
+.text {
+	height: 20%;
+	clear: right;
+	background-color: #d0021b;
+}
+
+.text p {
+	font-size: 25px;
+	font-family: Verdana;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 45px;
+}
